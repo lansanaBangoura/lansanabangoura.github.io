@@ -1,0 +1,14 @@
+#nav_menu{
+	background-color: black;
+	height: 100px;
+}
+.nav_menu{
+		text-align: right;
+	}
+	.nav_spacing{
+		margin: 0 0 0 10px;
+	}
+	.underline, .nav_spacing{
+		text-decoration: none;
+		color: blue;
+	}
